@@ -1,0 +1,7 @@
+Dictionary application	dictionary_application	0	Dictionary application			
+make	make_1	0	make			
+makes	make_1	0	makes			make
+made	make_1	0	made (make)			make
+making	make_1	4	making			make
+make it	make_1	1	make it	xpointer(//*[@id='make_it'])		make
+make up one's mind	make_up_ones_mind	1	make up one's mind			
